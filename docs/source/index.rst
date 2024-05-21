@@ -16,3 +16,19 @@ The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBe
    :caption: Test
 
    PoseidonNOBM_pCO2_Cflux.ipynb
+
+
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
+
+.. note::
+
+   This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api

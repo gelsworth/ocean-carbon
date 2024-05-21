@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use ocean-carbon, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install ocean-carbon
 
 Creating recipes
 ----------------
@@ -28,7 +28,7 @@ will raise an exception.
 
 For example:
 
->>> import lumache
+>>> import ocean-carbon
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 

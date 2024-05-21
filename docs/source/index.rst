@@ -12,8 +12,8 @@ The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBe
 .. _ILAMB : https://github.com/rubisco-sfa/ILAMB
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Getting Started
+   :maxdepth: 2
+   :caption: Input/Output, Data Structure Manipulation
 
    PoseidonNOBM_pCO2_Cflux.ipynb
 

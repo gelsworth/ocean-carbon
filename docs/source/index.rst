@@ -15,6 +15,7 @@ The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBe
    :maxdepth: 1
    :caption: Getting Started
 
+   PoseidonNOBM_pCO2_Cflux.ipynb
 
 
 

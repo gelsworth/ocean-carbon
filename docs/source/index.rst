@@ -7,7 +7,7 @@ Additional Resources
 --------------------
 The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBench`_ and `ILAMB`_ toolboxes. 
 
-.. _ocean-carbon : 
+.. _ocean-carbon : https://github.com/gelsworth/ocean-carbon
 .. _WeatherBench https://github.com/pangeo-data/WeatherBench
 .. _ILAMB : https://github.com/rubisco-sfa/ILAMB
 

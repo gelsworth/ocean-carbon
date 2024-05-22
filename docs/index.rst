@@ -20,4 +20,6 @@ Getting Started
    :maxdepth: 2
    :caption: Test
 
-   PoseidonNOBM_pCO2_Cflux.ipynb
+.. toctree::
+   :maxdepth: 2
+   :caption: ECCO Data Structures

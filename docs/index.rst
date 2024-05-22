@@ -13,27 +13,13 @@ The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBe
 .. _WeatherBench : https://github.com/pangeo-data/WeatherBench
 .. _ILAMB : https://github.com/rubisco-sfa/ILAMB
 
-Getting Started
----------------
-
 .. toctree::
    :maxdepth: 2
-   :caption: Test
+   :caption: Getting Started
 
    intro
-
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api

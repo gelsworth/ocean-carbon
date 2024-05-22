@@ -1,5 +1,5 @@
-Usage
-=====
+Getting Started
+---------------
 
 .. _installation:
 
@@ -12,7 +12,7 @@ To use ocean-carbon, first install it using pip:
 
    (.venv) $ pip install ocean-carbon
 
-Creating recipes
+Python and Python Packages
 ----------------
 
 To retrieve a list of random ingredients,

@@ -1,10 +1,6 @@
-####################################################################
-The Goddard Earth Observing System - NASA Ocean Biogeochemical Model 
-####################################################################
-
-*****************************************************************************
-What is the Goddard Earth Observing System - NASA Ocean Biogeochemical Model?
-*****************************************************************************
+*****************************************************************************************
+What is the Goddard Earth Observing System - NASA Ocean Biogeochemical Model (GEOS-NOBM)?
+*****************************************************************************************
 
 The Goddard Earth Observing System - NASA Ocean Biogeochemical Model is a fully-coupled, data-assimilative model that simulates the Earth's climate while assimilating different observational datasets. The model simulates the evolution of coupled atmosphere (AGCM), ocean (MOM), sea ice (CICE), ocean biogeochemistry (NOBM), and aerosol and carbon gas (GOCART) component models.
 

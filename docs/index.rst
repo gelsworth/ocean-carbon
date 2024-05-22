@@ -20,7 +20,7 @@ Getting Started
    :maxdepth: 2
    :caption: Test
 
-   PoseidonNOBM_pCO2_Cflux.ipynb
+   intro
 
 
 Check out the :doc:`usage` section for further information, including

@@ -18,6 +18,7 @@ The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBe
    :caption: Getting Started
 
    intro
+   python
 
 .. note::
 

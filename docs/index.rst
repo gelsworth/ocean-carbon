@@ -5,7 +5,7 @@ This website contains a set of tutorials about how to use `ocean-carbon`_, an op
 
 Additional Resources
 --------------------
-The `ocean-carbon`_ package uses output from global ocean biogeochemical models at 1-degree spatial resolution and monthly temporal resolution. The package is designed to be benchmark carbon parameters with output from the Goddard Earth System Model - NASA Ocean Biogeochemical Model (GEOS-NOBM) which is released as NetCDF files. If you would like to analyze a suite of ocean biogeochemical parameters including nutrients and chlorophyll, we would recommend the `ILAMB`_ toolboxes.
+The `ocean-carbon`_ package uses output from global ocean biogeochemical models at 1-degree spatial resolution and monthly temporal resolution. The package is designed to benchmark carbon parameters with output from the Goddard Earth System Model - NASA Ocean Biogeochemical Model (GEOS-NOBM) which is released as NetCDF files. If you would like to analyze a suite of ocean biogeochemical parameters including nutrients and chlorophyll, we would recommend the `ILAMB`_ toolboxes.
 
 The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBench`_ and `ILAMB`_ toolboxes. 
 

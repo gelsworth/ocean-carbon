@@ -19,6 +19,7 @@ The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBe
 
    intro
    python
+   ocean-carbon_data_structure_basics.ipynb
 
 .. note::
 

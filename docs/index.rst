@@ -14,11 +14,16 @@ The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBe
 .. _ILAMB : https://github.com/rubisco-sfa/ILAMB
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Getting Started
 
    intro
    python
+
+.. toctree::
+   :maxdepth: 2
+   :caption: ocean-carbon Data Structures
+
    ocean-carbon_data_structure_basics.ipynb
 
 .. note::

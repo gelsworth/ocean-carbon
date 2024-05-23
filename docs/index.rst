@@ -14,7 +14,7 @@ The `ocean-carbon`_ package used in this tutorial was inspired by the `WeatherBe
 .. _ILAMB : https://github.com/rubisco-sfa/ILAMB
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Getting Started
 
    intro
